@@ -1,0 +1,278 @@
+{
+  "id": "nlc-16jh002848-xiamen-hospital-charter",
+  "title": "厦門中山醫院董事會組織大綱（中國國家圖書館 官/419.6/8312，1929）",
+  "english_title": "Xiamen Zhongshan Hospital Board Charter (1929)",
+  "version": "0.1.0",
+  "date": "2026-11-18",
+  "editor": {
+    "name": "Chu, Chen-Yu",
+    "orcid": "0009-0003-9738-6914"
+  },
+  "language": "lzh",
+  "historical_authors": [
+    "厦門市衛生會"
+  ],
+  "rights_note": "Historical printed charter in the public domain. New editorial documentation and markup are CC BY 4.0 where applicable.",
+  "source": {
+    "citation": "中國國家圖書館藏官/419.6/8312《廈門中山醫院計劃書》，厦門市衛生會印行，[1929]。",
+    "catalog": "https://read.nlc.cn/allSearch/searchDetail?fid=16jh002848&indexName=data_416&searchType=24&showType=1",
+    "digital_source": "https://commons.wikimedia.org/wiki/File:NLC416-16jh002848-87078_%E5%BB%88%E9%96%80%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%A8%88%E5%8A%83%E6%9B%B8.pdf",
+    "pdf": "https://commons.wikimedia.org/wiki/Special:FilePath/NLC416-16jh002848-87078_%E5%BB%88%E9%96%80%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%A8%88%E5%8A%83%E6%9B%B8.pdf",
+    "holdings": "National Library of China",
+    "shelfmark": "官/419.6/8312",
+    "copy_id": "NLC416-16jh002848-87078",
+    "year_as_catalogued": 1929,
+    "place": "厦門",
+    "mime_type": "application/pdf",
+    "pdf_pages": 85,
+    "pdf_sha256": "1c5466c096a69e1df33bec8f2789aaf13c3e6fb2f128c8790bc78cf2b4a02c5d",
+    "separately_held_copy": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9900006915",
+    "mirror_rights": [
+      "PD-scan",
+      "PD-China"
+    ]
+  },
+  "coverage": {
+    "physical_faces": 2,
+    "column_units": 12,
+    "text_columns": 11,
+    "articles": 8,
+    "complete_book": false,
+    "included": "題名、董事會組織大綱完整八條、篇末印頁與插圖位置"
+  },
+  "descriptive_layers": {
+    "body": "原印頁一的 11 欄從右讀到左；條號依欄界合併印刷間距。",
+    "coordinates": "以 900×1329 的 PDF 渲染結果為 0-based x,y,width,height。欄框供近似回圖定位。",
+    "illustration": "原印頁二保留欄題與圖像說明；公開包以來源網址回到圖面。"
+  },
+  "quality": {
+    "ai_assisted": true,
+    "human_full_double_collation": false,
+    "reference_accuracy_measurement": false,
+    "peer_reviewed": false
+  },
+  "sections": [
+    {
+      "id": "charter",
+      "type": "charter",
+      "label": "章程"
+    },
+    {
+      "id": "illustration",
+      "type": "paratext",
+      "label": "附圖所在頁欄題",
+      "figure_page_id": "page-34",
+      "figure_description": "一隻公雞的黑白插圖。"
+    }
+  ],
+  "pages": [
+    {
+      "id": "page-33",
+      "pdf_page": 33,
+      "printed_page": "一",
+      "image_reference": "https://commons.wikimedia.org/wiki/Special:FilePath/NLC416-16jh002848-87078_%E5%BB%88%E9%96%80%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%A8%88%E5%8A%83%E6%9B%B8.pdf#page=33",
+      "mime_type": "application/pdf",
+      "source_dimensions": [
+        900,
+        1329
+      ],
+      "running_title": "厦門中山醫院董事會組織大綱",
+      "source_raster_sha256": "08b46ce57b3a13a4124bd60583fc796672dab993d7aa609a1875e0557565a8ef"
+    },
+    {
+      "id": "page-34",
+      "pdf_page": 34,
+      "printed_page": "二",
+      "image_reference": "https://commons.wikimedia.org/wiki/Special:FilePath/NLC416-16jh002848-87078_%E5%BB%88%E9%96%80%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%A8%88%E5%8A%83%E6%9B%B8.pdf#page=34",
+      "mime_type": "application/pdf",
+      "source_dimensions": [
+        900,
+        1329
+      ],
+      "running_title": "厦門中山醫院董事會組織大綱",
+      "source_raster_sha256": "85ef5b4c5ca1312d58440ab4363e6db73ebf28dc743ef07319af0cc64db6870a"
+    }
+  ],
+  "units": [
+    {
+      "id": "line-p033-c01",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 1,
+      "text": "厦門中山醫院董事會組織大綱",
+      "role": "heading",
+      "article": null,
+      "xywh": [
+        651,
+        272,
+        48,
+        505
+      ]
+    },
+    {
+      "id": "line-p033-c02",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 2,
+      "text": "第一條本會定名為厦門中山醫院董事會",
+      "role": "body",
+      "article": 1,
+      "xywh": [
+        598,
+        196,
+        42,
+        453
+      ]
+    },
+    {
+      "id": "line-p033-c03",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 3,
+      "text": "第二條本會由厦門市衛生會執行委員會選出七人為董事凡熱心捐助本院一萬元以上",
+      "role": "body",
+      "article": 2,
+      "xywh": [
+        552,
+        196,
+        42,
+        921
+      ],
+      "editorial_note": "原圖金額只有一完整橫筆。同欄的「第二條」有兩完整橫筆。"
+    },
+    {
+      "id": "line-p033-c04",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 4,
+      "text": "者得為本院董事捐助五萬元以上者得為本院永久董事",
+      "role": "body",
+      "article": 2,
+      "xywh": [
+        507,
+        294,
+        42,
+        588
+      ]
+    },
+    {
+      "id": "line-p033-c05",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 5,
+      "text": "第三條本會得由全體董事中推出五人組織常務董事會辦理日常事務",
+      "role": "body",
+      "article": 3,
+      "xywh": [
+        461,
+        196,
+        42,
+        757
+      ]
+    },
+    {
+      "id": "line-p033-c06",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 6,
+      "text": "第四條本會為本院最高機關有監督全院行政之權及籌措經費之責任",
+      "role": "body",
+      "article": 4,
+      "xywh": [
+        414,
+        196,
+        42,
+        753
+      ]
+    },
+    {
+      "id": "line-p033-c07",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 7,
+      "text": "第五條本院董事任期一年（永久董事得永久連任）",
+      "role": "body",
+      "article": 5,
+      "xywh": [
+        370,
+        196,
+        42,
+        548
+      ]
+    },
+    {
+      "id": "line-p033-c08",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 8,
+      "text": "第六條本會每星期開常務董事會一次每兩月開全體董事會一次遇必要時得由常務董",
+      "role": "body",
+      "article": 6,
+      "xywh": [
+        325,
+        196,
+        42,
+        926
+      ]
+    },
+    {
+      "id": "line-p033-c09",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 9,
+      "text": "事會召集之",
+      "role": "body",
+      "article": 6,
+      "xywh": [
+        279,
+        294,
+        42,
+        130
+      ]
+    },
+    {
+      "id": "line-p033-c10",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 10,
+      "text": "第七條本院董事概為義務職至聘任職員當視事務之繁簡而酌定之",
+      "role": "body",
+      "article": 7,
+      "xywh": [
+        234,
+        196,
+        42,
+        724
+      ]
+    },
+    {
+      "id": "line-p033-c11",
+      "page_id": "page-33",
+      "section": "charter",
+      "column": 11,
+      "text": "第八條本組織大綱如有未妥善處得由全體董事會議決修改之",
+      "role": "body",
+      "article": 8,
+      "xywh": [
+        188,
+        196,
+        42,
+        673
+      ]
+    },
+    {
+      "id": "line-p034-head",
+      "page_id": "page-34",
+      "section": "illustration",
+      "column": 1,
+      "text": "厦門中山醫院董事會組織大綱",
+      "role": "running-title",
+      "xywh": [
+        752,
+        348,
+        42,
+        257
+      ]
+    }
+  ]
+}
